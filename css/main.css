@@ -17,7 +17,7 @@ html {
   box-sizing: inherit;
 }
 
-img-flex {
+.img-flex {
   display: block;
   width: 100%;
 }
@@ -28,6 +28,6 @@ a {
 
 .card {
   overflow: hidden;
-  background-color:#d9ccaa;
+  background-color: #d9ccaa;
   border-radius: 6px;
 }
